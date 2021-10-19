@@ -1,4 +1,4 @@
-# DLS
+# Style transfer
 Задание по style transfer для Deep Learning School
 
 2_style_transfer_in_one - одновременный перенос 2х стилей
